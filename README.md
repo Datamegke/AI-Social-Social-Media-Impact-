@@ -36,10 +36,15 @@ The data groupings are as follows
 
 ## Evaluation
 The following **findings** were drawn from the dataset
+
 1.The use of AI tools and Social media affects the health and performance of students at different levels of Education
+
 2.The male students spent the highest time on social media while the female students had the highest sum of AI tools usage
+
 3. The male students had the highest sum of physical and mental heath score followed by their female counterparts while the non binary had the least values
+ 
 4.Highschool students had the highest sum of of physical activity hours, sleep hours, daily AI tool usage, Social media usage hours.At the same time they had the highest sum of both the physical and mental healthscore followed by their conterparts in the University and College levels respectively.
+
 5.The old students have a higher sum of both the physical and mental health score than the young
 
 <img width="475" height="285" alt="Screenshot 2026-11-02 075215" src="https://github.com/user-attachments/assets/64910bfe-9edc-41b3-b5ae-95cd5c2d20bb" />
@@ -49,21 +54,31 @@ The following **findings** were drawn from the dataset
 
 The project offers the following **recommendations**
 1. Schools, colleges and Universities should provide AI and Digital Literacy training, information verification academic integrity, and responsible digital use
+   
 2. Promote online safety by educating the students on misinformation, cyberbullying, privacy etc
+   
 3. Educational Institutions  should use a balanced approach, allowing students to use AI and Social Media for learning while providing appropriate guidelines to minimize overdependence on technology, misinformation and distraction from studies
+   
    ### challenges
 1. High cost of internet connectivity to access data
+   
 2. Limited data sources
+   
 3. Limited research time
 
 ## Collaborators
 1. Mary Margaret
+   
 ## Deployment
+
 ### License
 MIT license has been applied to this project
+
 ### Contact
 For any information and feedbacks, please feel free to contact Mary Margaret via
+
 **Email**:meg8584@gmail.com
+
 **Phone number**:+254 743103223
 
 
