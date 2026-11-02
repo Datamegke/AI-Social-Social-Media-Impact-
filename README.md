@@ -31,7 +31,9 @@ The data groupings are as follows
 -I sorted the data according to age and physical activity from the highest to the lowest
 ## Modelling
 1.Pivot Tables
+
 2.Charts
+
 ## Evaluation
 The following **findings** were drawn from the dataset
 1.The use of AI tools and Social media affects the health and performance of students at different levels of Education
