@@ -8,7 +8,7 @@ The use of AI and Social Media therefore, offers both benefits and challenges. P
 2. Establish which Gender spends the highest time on social media and AI tools usage and its effect on their health and performance
 3. Determine which Age Group highly uses Social Media and AI tools
 4. Asses other complementing factors such as sleep hours, physical activity hours, that influence Students' Health and Grades
-## Data Mining Objective
+## Data Mining Goals
 1. Identify what factors affecting students Health and grades, AI, Social Media, age, gender, level of study
 2. Determine what factors have the strongest relationship with students health and grades
 3. Segment student into groups
