@@ -1,7 +1,7 @@
 # Business Understanding
 Artificial Intelligence (AI) and social media have increasingly become part of every other conversation in todays living and students are not an exemption. These two have become important parts of their academic and social lives. Today, students use AI tool such as ChatGPT ,Microsoft copilot and AI powered learning applications in search for information, generate ideas, summarize materials, explain difficult concepts and support assigments.AI therefore significantly provides educational benefits by giving students quick explanations,personalized learning support, language assistance, and also help with research and problem solving. 
 On the other side, social media platforms such as YouTube, Twitter, WhatsApp, Facebook, TikTok, widely used for communication, entertainment and information sharing ,also support Education by enabling students to create Study Groups, share learning materials, and communicate with their teachers and classmates.
-Excessive or inappropriate use of AI and Social Media however can pose challenges. Overreliance on AI can reduce the students independent thinking, creativity, research skills, and academic integrity if students submit AI generated work they do not understand. Similarly, Social Media may encourage excessive screentime thereby distracting them from their studies, expose them to misinformation, inappropriate content or cyber bulying
+Excessive or inappropriate use of AI and Social Media however can pose challenges. Overreliance on AI can reduce the students independent thinking, creativity, research skills, and academic integrity if students submit AI generated work they do not understand. Similarly, Social Media may encourage excessive screentime thereby distracting them from their studies, expose them to misinformation, inappropriate content or cyber bulying.
 The use of AI and Social Media therefore, offers both benefits and challenges. Parental/Teacher guidance, clear academic policies, effective digital literacy and responsible use of the two would benefit the students while minimizing the potential risks.
 ## Project Objectives
 1. To determine which Level of Education is hardly hit by the use of AI tools and Social Media
@@ -43,7 +43,7 @@ The following **findings** were drawn from the dataset
 
 3. The male students had the highest sum of physical and mental heath score followed by their female counterparts while the non binary had the least values
  
-4.Highschool students had the highest sum of of physical activity hours, sleep hours, daily AI tool usage, Social media usage hours.At the same time they had the highest sum of both the physical and mental healthscore followed by their conterparts in the University and College levels respectively.
+4.Highschool students had the highest sum of  physical activity hours, sleep hours, daily AI tool usage, Social media usage hours.At the same time they had the highest sum of both the physical and mental healthscore followed by their conterparts in the University and College levels respectively.
 
 5.The old students have a higher sum of both the physical and mental health score than the young
 
@@ -53,11 +53,11 @@ The following **findings** were drawn from the dataset
 <img width="506" height="375" alt="Screenshot 2026-11-02 075421" src="https://github.com/user-attachments/assets/8916a34d-0de4-450d-bca2-e6419591c114" />
 
 The project offers the following **recommendations**
-1. Schools, colleges and Universities should provide AI and Digital Literacy training, information verification academic integrity, and responsible digital use
+1. Schools, colleges and Universities should provide AI and Digital Literacy training, information verification, academic integrity, and responsible digital use
    
 2. Promote online safety by educating the students on misinformation, cyberbullying, privacy etc
    
-3. Educational Institutions  should use a balanced approach, allowing students to use AI and Social Media for learning while providing appropriate guidelines to minimize overdependence on technology, misinformation and distraction from studies
+3. Educational Institutions  should use a balanced approach, allowing students to use AI and Social Media for learning while providing appropriate guidelines to minimize overdependence on technology, misinformation and distraction from studies.
    
    ### challenges
 1. High cost of internet connectivity to access data
